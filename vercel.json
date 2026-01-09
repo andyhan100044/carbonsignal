@@ -5,7 +5,7 @@
   "outputDirectory": ".next",
   "installCommand": "npm install",
   "devCommand": "npm run dev",
-  "regions": ["hkg1", "sfo1"],
+  "regions": ["hkg1"],
   "env": {
     "NODE_ENV": "production"
   },
